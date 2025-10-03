@@ -5,7 +5,7 @@ import { ExternalLink, Folder } from "lucide-react"
 export function Projects() {
   const projects = [
     {
-      title: "Rabwin Industries - Purchase Order Automation System",
+      title: "Purchase Order Automation System",
       period: "July 31, 2025 – Aug 19, 2025",
       type: "Independent Project",
       description:
