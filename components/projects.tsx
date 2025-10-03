@@ -18,7 +18,7 @@ export function Projects() {
         "Delivered a scalable, production-ready solution independently",
       ],
       technologies: ["React.js", "Node.js", "Express.js", "PostgreSQL", "AI API", "SAP Integration"],
-      link: "#",
+      ,
     },
     {
       title: "CAMEOGRAT - Full-Stack Web Application",
